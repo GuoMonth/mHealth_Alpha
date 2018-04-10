@@ -1,0 +1,9 @@
+E:\MyProgramma\CDFYServer\CDFYClient\bin\Debug\CDFYClient.exe
+E:\MyProgramma\CDFYServer\CDFYClient\bin\Debug\CDFYClient.pdb
+E:\MyProgramma\CDFYServer\CDFYClient\obj\x86\Debug\CDFYClient.Business.Login.LoginFrom.resources
+E:\MyProgramma\CDFYServer\CDFYClient\obj\x86\Debug\CDFYClient.Properties.Resources.resources
+E:\MyProgramma\CDFYServer\CDFYClient\obj\x86\Debug\CDFYClient.csproj.GenerateResource.Cache
+E:\MyProgramma\CDFYServer\CDFYClient\obj\x86\Debug\CDFYClient.exe
+E:\MyProgramma\CDFYServer\CDFYClient\obj\x86\Debug\CDFYClient.pdb
+E:\MyProgramma\CDFYServer\CDFYClient\bin\Debug\Newtonsoft.Json.dll
+E:\MyProgramma\CDFYServer\CDFYClient\obj\x86\Debug\CDFYClient.csprojResolveAssemblyReference.cache

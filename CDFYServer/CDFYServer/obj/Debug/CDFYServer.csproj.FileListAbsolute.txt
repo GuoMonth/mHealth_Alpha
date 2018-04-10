@@ -1,0 +1,10 @@
+E:\MyProgramma\CDFYServer\CDFYServer\bin\CDFYServer.dll
+E:\MyProgramma\CDFYServer\CDFYServer\bin\CDFYServer.pdb
+E:\MyProgramma\CDFYServer\CDFYServer\obj\Debug\CDFYServer.dll
+E:\MyProgramma\CDFYServer\CDFYServer\obj\Debug\CDFYServer.pdb
+E:\MyProgramma\CDFYServer\CDFYServer\bin\Devart.Data.dll
+E:\MyProgramma\CDFYServer\CDFYServer\bin\Devart.Data.Oracle.dll
+E:\MyProgramma\CDFYServer\CDFYServer\bin\Newtonsoft.Json.dll
+E:\MyProgramma\CDFYServer\CDFYServer\bin\Devart.Data.xml
+E:\MyProgramma\CDFYServer\CDFYServer\bin\Devart.Data.Oracle.xml
+E:\MyProgramma\CDFYServer\CDFYServer\obj\Debug\CDFYServer.csprojResolveAssemblyReference.cache
